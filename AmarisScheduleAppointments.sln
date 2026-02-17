@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarisScheduleAppointments", "AmarisScheduleAppointments\AmarisScheduleAppointments.csproj", "{4B4313DF-B0D5-459B-9B94-DBD8DA8BAD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarisScheduleAppointments.Domain", "AmarisScheduleAppointments.Domain\AmarisScheduleAppointments.Domain.csproj", "{E09F7448-F7F9-4FEE-A16B-088788CD9383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarisScheduleAppointments.Infrastructure", "AmarisScheduleAppointments.Infrastructure\AmarisScheduleAppointments.Infrastructure.csproj", "{5813A7D0-75CD-42D6-8223-4E1F9CB04134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarisScheduleAppointments.Application", "AmarisScheduleAppointments.Application\AmarisScheduleAppointments.Application.csproj", "{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4313DF-B0D5-459B-9B94-DBD8DA8BAD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4313DF-B0D5-459B-9B94-DBD8DA8BAD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4313DF-B0D5-459B-9B94-DBD8DA8BAD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4313DF-B0D5-459B-9B94-DBD8DA8BAD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09F7448-F7F9-4FEE-A16B-088788CD9383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09F7448-F7F9-4FEE-A16B-088788CD9383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09F7448-F7F9-4FEE-A16B-088788CD9383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09F7448-F7F9-4FEE-A16B-088788CD9383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5813A7D0-75CD-42D6-8223-4E1F9CB04134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5813A7D0-75CD-42D6-8223-4E1F9CB04134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5813A7D0-75CD-42D6-8223-4E1F9CB04134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5813A7D0-75CD-42D6-8223-4E1F9CB04134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
