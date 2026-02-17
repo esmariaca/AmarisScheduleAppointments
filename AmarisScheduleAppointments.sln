@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarisScheduleAppointments.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarisScheduleAppointments.Application", "AmarisScheduleAppointments.Application\AmarisScheduleAppointments.Application.csproj", "{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarisScheduleAppointments.Tests", "AmarisScheduleAppointments.Tests\AmarisScheduleAppointments.Tests.csproj", "{73997E9A-B0D7-45E0-9905-4A543E0BDAB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{916A2FA0-E1C6-481D-9F7A-C8AA27EA86D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73997E9A-B0D7-45E0-9905-4A543E0BDAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73997E9A-B0D7-45E0-9905-4A543E0BDAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73997E9A-B0D7-45E0-9905-4A543E0BDAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73997E9A-B0D7-45E0-9905-4A543E0BDAB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
